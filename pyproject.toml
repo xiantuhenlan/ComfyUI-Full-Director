@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-full-director"
+version = "0.1.1"
+description = "Four isolated workbenches: H3 video director, character replacement, H3-IMAGE and digital human V2."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = ["psutil", "openpyxl", "xlrd"]
+
+[project.urls]
+Repository = "https://github.com/xiantuhenlan/ComfyUI-Full-Director"
+"Bug Tracker" = "https://github.com/xiantuhenlan/ComfyUI-Full-Director/issues"
+
+[tool.comfy]
+PublisherId = "xiantuhenlan"
+DisplayName = "闲兔H3全功能导演台V1"
