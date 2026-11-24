@@ -28,3 +28,5 @@
 ComfyUI 核心、模型文件以及画布使用的采样/放大等社区节点仍按四类工作流原有要求准备。插件不包含模型。默认输出分别归档到 `全功能导演台/漫剧短剧`、`全功能导演台/角色替换` 、`全功能导演台/H3image生图` 和 `全功能导演台/数字人`。
 
 安装后重启 ComfyUI 并刷新前端。当前版本：`0.1.1`。仓库和更新地址见 [GitHub](https://github.com/xiantuhenlan/ComfyUI-Full-Director)。
+
+当前发布版本：`0.1.2`。完整仓库与更新清单地址见 `plugin_manifest.json`。

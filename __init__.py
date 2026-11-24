@@ -13,7 +13,7 @@ from .engines.manga import video_continuity, video_postprocess, video_latent_cac
 from .engines.manga import h3_data_bridge, h3_latent_continuation, sigmas_relay, sampler_relay, universal_relay, group_switch
 from server import PromptServer
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 
 NODE_CLASS_MAPPINGS = {
     'XiantuFullDirector': XiantuFullDirector,

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "pluginId": "comfyui-full-director",
   "displayName": "闲兔H3全功能导演台V1",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "channel": "stable",
   "repository": "https://github.com/xiantuhenlan/ComfyUI-Full-Director",
   "updateManifestUrl": "https://raw.githubusercontent.com/xiantuhenlan/ComfyUI-Full-Director/main/plugin_manifest.json"

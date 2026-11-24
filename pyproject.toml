@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-full-director"
-version = "0.1.1"
+version = "0.1.2"
 description = "Four isolated workbenches: H3 video director, character replacement, H3-IMAGE and digital human V2."
 readme = "README.md"
 license = { file = "LICENSE" }
